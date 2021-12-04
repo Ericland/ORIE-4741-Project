@@ -12,3 +12,6 @@ Answering this question can provide a more transparent guideline to customers an
 
 We use this [dataset](https://www.kaggle.com/austinreese/craigslist-carstrucks-data/version/10) from Kaggle, which contains the most all relevant information that Craigslist provides on car sales including columns like price, condition, manufacturer, latitude/longitude, and 18 other categories. 
 The dataset also has more than 400,000 data points. Therefore, it provides enough data for us to train, validate and test different models. 
+
+## Project Presentation Link
+[presentation](https://youtu.be/e-d1OBExgLw)
